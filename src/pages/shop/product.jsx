@@ -34,3 +34,5 @@ Product.propTypes = {
     productImage: PropTypes.string.isRequired,
   }).isRequired,
 };
+
+export default Product
